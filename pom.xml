@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>mohan</name>
-	      <url>http://13.233.46.230:8081/repository/AmaazonRelease/</url>
+	      <name>admin</name>
+	      <url>http://13.233.46.230:8081/repository/Snapdeal-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>mohan</name>
-	      <url>http://13.233.46.230:8081/repository/AmazonSnapshot/</url>
+	      <name>admin</name>
+	      <url>http://13.233.46.230:8081/repository/Snapdeal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
